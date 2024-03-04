@@ -37,12 +37,12 @@
 *Users have control over their data and can choose to opt out of sharing certain information if they prefer.
 
 **Key Technologies and Skills:**
-      -Python
-      -Git
-      -Pandas
-      -PostgreSQL
-      -Streamlit
-      -Plotly
+1)Python
+2)Git
+3)Pandas
+4)PostgreSQL
+5)Streamlit
+6)Plotly
 
 **Key Features**
 
